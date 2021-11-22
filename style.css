@@ -1,0 +1,228 @@
+/*Layout for the website name*/
+/*Jenner St John - ID:40160320*/
+
+/*Control of the body tag*/
+.body {
+  width: 1000px;
+  margin: 0 auto; /*set into center*/
+  border: 1px solid;
+}
+
+/*Header Control Tag*/
+.header {
+  width: 1000px;
+  margin: 0 auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border: 1px solid;
+  text-align: center;
+  background: lightgoldenrodyellow;
+}
+
+/*hnav Navigation Tag*/
+.hmain_nav {
+  width: 1000px;
+  height: 50px;
+  margin: 0 auto;
+  margin-top: 10px;
+  border: 1px solid;
+  margin-bottom: 10px;
+  text-align: center;
+  background: lightgoldenrodyellow;
+}
+
+/*hnav Table Control*/
+.hmain_nav table {
+  border: 1px solid;
+  width: 700px;
+  margin: 0 auto;
+  margin-top: 5px;
+  margin-right: 50px;
+  float: right;
+}
+
+.hmain_nav td {
+  border: 1px solid rgb(0, 0, 0);
+  width: 200px;
+  height: 20px;
+  background: lightsteelblue;
+  text-align: center;
+  color: black;
+  padding: 5px;
+  letter-spacing: 0.5;
+}
+
+/*vsub_nav Navigation Control Tag*/
+#vsub_nav {
+  width: 190px;
+  margin: 0 auto;
+  margin-bottom: 10px;
+  float: left;
+  border: 1px solid;
+  background: lightgoldenrodyellow;
+}
+/*vsub_nav Table Control Tag*/
+#vsub_nav table {
+  width: 160px;
+  border: 1px solid;
+  margin: 0 auto;
+  margin-top: 10px;
+  background: white;
+}
+
+#vsub_nav td {
+  border: 1px solid;
+  width: 50%;
+  height: 25px;
+  margin: 0 auto;
+  background: lightsteelblue;
+  text-align: center;
+}
+
+/*Main Body Control Tag*/
+.main_body {
+  width: 800px;
+  float: right;
+  text-align: center;
+  margin: 0 auto;
+  border: 1px solid;
+  background: lightgoldenrodyellow;
+}
+
+/*Main Body Banner Tag*/
+.first_mb_container {
+  width: 750px;
+  border: 1px solid;
+  margin: 0 auto;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  display: inline-block;
+  background: lightgoldenrodyellow;
+}
+
+/*Start - Main Body Second Container*/
+.second_mb_container {
+  width: 800px;
+  border: 1px solid;
+  margin: 0 auto;
+  margin-bottom: 20px;
+  display: inline-block;
+  background: lightgoldenrodyellow;
+}
+
+/*End - Main Body Second Container*/
+
+/* Start - Main Body Second First Prod Box 1*/
+.second_mb_prod_box1 {
+  border: 1px solid;
+  width: 230px;
+  float: left;
+}
+
+.second_mb_prod_box1 td {
+  width: 230px;
+  height: 100px;
+  border: 1px solid;
+}
+/*End - Main Body Second Container Prod Box 1*/
+
+/* Start - Main Body Second Container Prod Box 2*/
+
+.second_mb_prod_box2 {
+  border: 1px solid;
+  width: 230px;
+  margin-left: 55px;
+  float: left;
+}
+
+.second_mb_prod_box2 td {
+  width: 230px;
+  height: 100px;
+  border: 1px solid;
+}
+
+/*End - Main Body Second Container Prod Box 2*/
+
+/*Start- Main Body Second Container Prod Box 3*/
+
+.second_mb_prod_box3 {
+  border: 1px solid;
+  width: 230px;
+  float: right;
+}
+
+.second_mb_prod_box3 td {
+  width: 230px;
+  height: 100px;
+  border: 1px solid;
+}
+
+/*End - Main Body Second Container Prod Box 3*/
+
+/* Start - Main Body Third Container*/
+
+.third_mb_container {
+  width: 800px;
+  border: 1px solid;
+  margin: 0 auto;
+  display: inline-block;
+  background: lightgoldenrodyellow;
+}
+/* End - Main Body Third Container*/
+
+/*Start - Main Body Third Container Prod Box 1 */
+.third_mbc_prod_box1 {
+  border: 1px solid;
+  width: 230px;
+  float: left;
+}
+
+.third_mbc_prod_box1 td {
+  width: 230px;
+  height: 100px;
+  border: 1px solid;
+}
+
+/*End - Main Body Third Container Prod Box 1 */
+
+/*Start - Main Body Third Container Prod Box 2 */
+
+.third_mbc_prod_box2 {
+  border: 1px solid;
+  width: 230px;
+  margin-left: 55px;
+  float: left;
+}
+
+.third_mbc_prod_box2 td {
+  width: 230px;
+  height: 100px;
+  border: 1px solid;
+}
+/*End - Main Body Third Container Prod Box 2 */
+
+/*Start - Main Body Third Container Prod Box 3 */
+
+.third_mbc_prod_box3 {
+  border: 1px solid;
+  width: 230px;
+  float: right;
+}
+
+.third_mbc_prod_box3 td {
+  width: 230px;
+  height: 100px;
+  border: 1px solid;
+}
+/*End - Main Body Third Container Prod Box 3 */
+
+/*Footer of the Page Tag*/
+.footer {
+  width: 1000px;
+  height: 100px;
+  margin: 0 auto;
+  margin-top: 10px;
+  border: 1px solid;
+  display: inline-block;
+  background: lightgoldenrodyellow;
+}
